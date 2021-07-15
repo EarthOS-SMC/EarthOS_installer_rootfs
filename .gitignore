@@ -1,3 +1,4 @@
-release
-id
-official
+etc/release
+etc/id
+etc/official
+etc/init.d/*
