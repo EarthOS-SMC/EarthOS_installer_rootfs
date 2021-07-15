@@ -1,8 +1,0 @@
-name
-User interface
-user
-root
-exec
-/lib/system/ui
-wait
-false
